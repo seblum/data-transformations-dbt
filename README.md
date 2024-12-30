@@ -1,4 +1,4 @@
-# dbt-cloud-model-repository
+# data-transformations-dbt
 
 This repository contains code and resources for the **dbt Cloud + BigQuery** tutorial, covering all 15 steps from the [official dbt documentation](https://docs.getdbt.com/guides/bigquery). Follow this guide to set up a complete analytics environment with dbt Cloud and Google BigQuery.
 
@@ -9,32 +9,6 @@ This repository contains code and resources for the **dbt Cloud + BigQuery** tut
 Before starting, ensure you have:
 - **dbt Cloud Account**: Sign up for free at [dbt Cloud](https://cloud.getdbt.com/signup/).
 - **Google Account**: Required for accessing Google Cloud Platform (GCP) and BigQuery.
-
----
-# dbt Cloud + BigQuery Quickstart Guide
-
-This repository contains resources and code for the **dbt Cloud + BigQuery Quickstart** tutorial. Follow this guide to set up and use dbt Cloud with BigQuery, learn the basics of building models, adding tests and documentation, and automating workflows.
-
----
-
-## Overview
-
-This guide will teach you how to:
-1. Create a Google Cloud Platform (GCP) project.
-2. Access sample data in a public dataset.
-3. Connect dbt Cloud to BigQuery.
-4. Turn a sample query into a dbt model.
-5. Add tests to your models.
-6. Document your models.
-7. Schedule a job to run automatically.
-
----
-
-## Prerequisites
-
-Before starting, ensure you have:
-- **Google Cloud Account**: To create and access your BigQuery project.
-- **dbt Cloud Account**: Sign up for free at [dbt Cloud](https://cloud.getdbt.com/signup/).
 
 ---
 
